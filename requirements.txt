@@ -1,6 +1,7 @@
 streamlit
-pandas
+torch
+transformers
+scikit-learn
 matplotlib
 seaborn
-torch
-wordcloud
+pandas
